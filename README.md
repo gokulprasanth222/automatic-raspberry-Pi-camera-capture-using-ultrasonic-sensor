@@ -1,8 +1,7 @@
-AUTOMATIC OBJECT USING ULTASONIC SENSOR WITH RASPBERRY PI
-
+##AUTOMATIC OBJECT USING ULTASONIC SENSOR WITH RASPBERRY PI:
 	In this project I’m using ultrasonic sensor, raspberry pi and camera module to detect and capture image of an object when placed in a Targeted area.
-  
-Description:
+	
+##Description:
 
 	This project is divided into two parts. First we need to find if an object is placed in the targeted area, So to detect the object we are using ultrasonic sensor which is used to detect distance of object. Ultrasonic sensor consists of two main components i.e. Transmitter(trig) and Receiver(echo). First ultrasonic frequency Trigger pulse is given in trig pin and the echo pulse is receiver in echo pin. We know that 
 		Distance = speed * time
